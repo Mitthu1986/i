@@ -1,0 +1,50 @@
+h1{
+    color: rgb(0, 17, 255);
+    margin-left: 500px;
+}
+
+h2{
+    color: cyan;
+    margin-left: 500px;
+    
+}
+
+h3{
+    color: greenyellow;
+    margin-left: 500px;
+}
+
+.io{
+    margin-left: 180px;
+}
+
+body{
+    background: url(1.jpg)no-repeat center center fixed;
+    background-size: cover;
+}
+
+h4{
+    color: #FFF000
+}
+
+.glance{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.image{
+    border: black;
+}
+
+.img{
+    margin-left: 400px;
+    margin-top: -140px;
+}
+
+a:link{
+    color:white;
+}
+
+a:visited{
+    color:white;
+}
